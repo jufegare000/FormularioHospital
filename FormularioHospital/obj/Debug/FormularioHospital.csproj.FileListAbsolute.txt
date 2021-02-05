@@ -1,0 +1,14 @@
+C:\Users\usuario\source\repos\FormularioHospital\FormularioHospital\bin\Debug\FormularioHospital.exe.config
+C:\Users\usuario\source\repos\FormularioHospital\FormularioHospital\bin\Debug\FormularioHospital.exe
+C:\Users\usuario\source\repos\FormularioHospital\FormularioHospital\bin\Debug\FormularioHospital.pdb
+C:\Users\usuario\source\repos\FormularioHospital\FormularioHospital\obj\Debug\FormularioHospital.csprojAssemblyReference.cache
+C:\Users\usuario\source\repos\FormularioHospital\FormularioHospital\obj\Debug\FormularioHospital.Form1.resources
+C:\Users\usuario\source\repos\FormularioHospital\FormularioHospital\obj\Debug\FormularioHospital.InicioSesion.resources
+C:\Users\usuario\source\repos\FormularioHospital\FormularioHospital\obj\Debug\FormularioHospital.Properties.Resources.resources
+C:\Users\usuario\source\repos\FormularioHospital\FormularioHospital\obj\Debug\FormularioHospital.Registrar.resources
+C:\Users\usuario\source\repos\FormularioHospital\FormularioHospital\obj\Debug\FormularioHospital.csproj.GenerateResource.cache
+C:\Users\usuario\source\repos\FormularioHospital\FormularioHospital\obj\Debug\FormularioHospital.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\FormularioHospital\FormularioHospital\obj\Debug\FormularioHospital.exe
+C:\Users\usuario\source\repos\FormularioHospital\FormularioHospital\obj\Debug\FormularioHospital.pdb
+C:\Users\usuario\source\repos\FormularioHospital\FormularioHospital\obj\Debug\FormularioHospital.Informacion.resources
+C:\Users\usuario\source\repos\FormularioHospital\FormularioHospital\obj\Debug\FormularioHospital.IMC.resources
